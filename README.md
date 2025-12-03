@@ -6,7 +6,7 @@ Predicting medical insurance costs is crucial for helping insurance companies op
 **Key Insight:** The analysis revealed that smoking, especially when combined with a BMI > 30 (Obesity), creates a synergistic effect that drastically increases medical costs.
 
 ## Live Demo
-*(Aquí pondremos el link si decidimos subirlo a la nube después, por ahora bórralo)*
+*https://insurance-cost-prediction-first-project.streamlit.app/*
 
 ## Technologies Used
 * **Python** (Pandas, NumPy, Seaborn, Matplotlib)
